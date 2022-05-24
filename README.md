@@ -1,9 +1,6 @@
 # Elysium Testnet Explorer
 
 <!-- project logo w/ quick links -->
-<p align="center">
-  <img src="assets/Popcateum-explorer.png" width="128" alt="popcateumlogo128" />
-</p>
 <center>
   <h3 align="center">Elysium Testnet Explorer</h3>
 </center>
