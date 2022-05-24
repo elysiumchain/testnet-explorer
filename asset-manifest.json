@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14686620.chunk.css",
+    "main.js": "/static/js/main.abff96ef.chunk.js",
+    "main.js.map": "/static/js/main.abff96ef.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f7c5443e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f7c5443e.js.map",
+    "static/js/2.3e2cb5bf.chunk.js": "/static/js/2.3e2cb5bf.chunk.js",
+    "static/js/2.3e2cb5bf.chunk.js.map": "/static/js/2.3e2cb5bf.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.37fbe8c3d69f8953b62b62a4ffd7d3fe.js": "/precache-manifest.37fbe8c3d69f8953b62b62a4ffd7d3fe.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.14686620.chunk.css.map": "/static/css/main.14686620.chunk.css.map",
+    "static/js/2.3e2cb5bf.chunk.js.LICENSE.txt": "/static/js/2.3e2cb5bf.chunk.js.LICENSE.txt",
+    "static/media/ely-logo.jpg": "/static/media/ely-logo.5abba956.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7c5443e.js",
+    "static/js/2.3e2cb5bf.chunk.js",
+    "static/css/main.14686620.chunk.css",
+    "static/js/main.abff96ef.chunk.js"
+  ]
+}
